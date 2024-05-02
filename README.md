@@ -4,7 +4,7 @@ SICON (Systray Icon Command Line Utility)
 Create a systray icon for your shell script. You can find an
 example [here](./bin/sicon-example).
 
-You can download a MS Windows prebuilt binary [here]().
+You can download a MS Windows prebuilt binary [here](https://github.com/harkaitz/go-sicon/releases/download/0.1/sicon.exe).
 
 ## Go programs
 
